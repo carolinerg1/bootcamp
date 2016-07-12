@@ -1,4 +1,4 @@
-# bootcamp
+# Loading data into Cassandra using Java
 
 First Java code I ever wrote to connect to Apache Cassandra through DataStax Enterprise
 
